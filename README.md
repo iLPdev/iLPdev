@@ -1,14 +1,14 @@
 #
 
 <h1 align="center">Hi 👋, I'm Stack</h1>
-<h3 align="center">an inveterate tinkerer at iLP development</h3>
+<h3 align="center">inveterate tinkerer at iLP development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iLPdev" alt="iLPdev" /> </p>
 
 - 🔭 I’m currently working on [discMapper](https://github.com/iLPdev/discMapper)
 
 - 👨‍💻 All of my projects are available at [ilpdev.com](ilpdev.com)
 
-- 💬 Ask me about **anything**.
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me: **stack@ilpdev.com**
 
