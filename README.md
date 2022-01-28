@@ -31,6 +31,9 @@
   
   <p align='center'>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
+    <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </p>
 
@@ -38,7 +41,8 @@
   
 <p align='center'>
   - 🔭 I’m currently working on <a href="https://github.com/iLPdev/taviMUD">taviMUD</a> and the <a href="https://github.com/iLPdev/disclaim/wiki">Disclaim Archival Project</a>
-</p>
+  - 🌱 I’m currently learning <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:ian@ilp.dev'>ian@ilp.dev</a>
@@ -57,6 +61,7 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
