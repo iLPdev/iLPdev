@@ -37,7 +37,7 @@
 </h2>
   
 <p align='center'>
-  - 🔭 I’m currently working on <a heref="https://github.com/iLPdev/taviMUD">taviMUD</a> and the <a href="https://github.com/iLPdev/disclaim/wiki">Disclaim Archival Project</a>
+  - 🔭 I’m currently working on <a href="https://github.com/iLPdev/taviMUD">taviMUD</a> and the <a href="https://github.com/iLPdev/disclaim/wiki">Disclaim Archival Project</a>
 </p>
 
 <p align='center'>
