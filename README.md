@@ -69,6 +69,10 @@
 - 👨‍💻 **Front End Developer**\
 📆 1985 - present\
 📍 **iLP development** - CA, OH, WY, and NV, USA
+  
+- 👨‍💻 **Bot Network Developer**\
+📆 1991 - 1993\
+📍 **EFnet**
 
 <!--## Skills
 
