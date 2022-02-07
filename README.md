@@ -40,12 +40,15 @@
 </h2>
   
 <p align='center'>
-  - 🔭 I’m currently working on <a href="https://github.com/iLPdev/taviMUD">taviMUD</a> and the <a href="https://github.com/iLPdev/disclaim/wiki">Disclaim Archival Project</a>
-  - 🌱 I’m currently learning <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+🔭 I’m currently working on <a href="https://github.com/iLPdev/taviMUD">taviMUD</a> and the <a href="https://github.com/iLPdev/disclaim/wiki">Disclaim Archival Project</a></p>
+<p align='center'>
+🌱 I’m currently learning:</p>
+ <p align='center'>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"> <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
   </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:ian@ilp.dev'>ian@ilp.dev</a>
+  📫 How to reach me: <a href='mailto:ian@ilpdev.com'>ian@ilpdev.com</a>
 </p>
 
 <details>
@@ -108,6 +111,8 @@
 📆 1998 - 1999\
 📍 **InlandData ISP** - CA, USA
   
+![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
+  
 - 👨‍💻 **Computer Technician**\
 📆 1997 - 1999\
 📍 **Human Computer** - CA, USA
@@ -145,9 +150,6 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 **Operating Systems**
-
-<img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
 
 -->
 
