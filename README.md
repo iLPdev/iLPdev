@@ -60,24 +60,27 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
 - 👨‍💻 **Wordpress Astra Developer**\
 📆 2020 - present\
 📍 **iLP development** - NV, USA
   
-- 👨‍💻 **Wordpress Genesis Developer**\
-📆 2013 - 2020\
-📍 **iLP development** - NV, USA
+<img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
   
 - 👨‍💻 **Wordpress Genesis Developer**\
 📆 2013 - 2020\
 📍 **iLP development** - NV, USA
   
+<img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />  
+
 - 👨‍💻 **concrete5 Developer**\
 📆 2010 - 2013\
 📍 **iLP development** - NV, USA
