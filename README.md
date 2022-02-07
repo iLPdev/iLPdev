@@ -97,6 +97,13 @@
 📆 1999 - 2000\
 📍 **Human Computer** - CA, USA
 
+
+<img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html4-E34F26?logo=html4&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css2-1572B6?logo=css2&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/RedHat-294172?logo=redhat&logoColor=white" />
+  
 - 👨‍💻 **Administrator**\
 📆 1998 - 1999\
 📍 **InlandData ISP** - CA, USA
