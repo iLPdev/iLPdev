@@ -66,13 +66,54 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
-- 👨‍💻 **Front End Developer**\
-📆 1985 - present\
-📍 **iLP development** - CA, OH, WY, and NV, USA
+- 👨‍💻 **Wordpress Astra Developer**\
+📆 2020 - present\
+📍 **iLP development** - NV, USA
+  
+- 👨‍💻 **Wordpress Genesis Developer**\
+📆 2013 - 2020\
+📍 **iLP development** - NV, USA
+  
+- 👨‍💻 **Wordpress Genesis Developer**\
+📆 2013 - 2020\
+📍 **iLP development** - NV, USA
+  
+- 👨‍💻 **concrete5 Developer**\
+📆 2010 - 2013\
+📍 **iLP development** - NV, USA
+  
+- 👨‍💻 **Bot Net Administrator**\
+📆 2001 - 2003\
+📍 **Eggdrop** - DALnet / IRC Highway, IRC
+  
+- 👨‍💻 **Founder / SOp**\
+📆 2001 - 2003\
+📍 **HBO Original Series [HOS]** - DALnet / IRC Highway, IRC
+  
+- 👨‍💻 **Technical Manager**\
+📆 1999 - 2000\
+📍 **Human Computer** - CA, USA
+
+- 👨‍💻 **Administrator**\
+📆 1998 - 1999\
+📍 **InlandData ISP** - CA, USA
+  
+- 👨‍💻 **Computer Technician**\
+📆 1997 - 1999\
+📍 **Human Computer** - CA, USA
+
+- 👨‍💻 **SysOp**\
+📆 1994 - 1996\
+📍 **Digital Buddha BBS** - CA, USA
   
 - 👨‍💻 **ircII Bot Developer**\
 📆 1991 - 1993\
-📍 **EFnet**
+📍 **LAVAtech** - EFnet, IRC
+  
+- 👨‍💻 **SysOp**\
+📆 1985 - 1989\
+📍 **Warez 'R' Us BBS** - CA, USA
+
 
 <!--## Skills
 
