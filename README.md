@@ -17,7 +17,7 @@
 </p>
   
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iLPdev&theme=blue-green" width="300"></a><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iLPdev&theme=blue-green" width="300"></a><a href="#">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iLPdev&theme=blue-green" width="300"></a><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iLPdev&theme=blue-green" width="300"></a>
 </p>
 
 <h2 align='center'>
