@@ -83,7 +83,8 @@
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />  
-
+<img align="right" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" />
+  
 - 👨‍💻 **concrete5 Developer**\
 📆 2010 - 2013\
 📍 **iLP development** - NV, USA
@@ -100,7 +101,6 @@
 📆 1999 - 2000\
 📍 **Human Computer** - CA, USA
 
-
 <img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html4-E34F26?logo=html4&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css2-1572B6?logo=css2&logoColor=white" />
@@ -111,7 +111,9 @@
 📆 1998 - 1999\
 📍 **InlandData ISP** - CA, USA
   
-![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
+<img align="right" src="https://img.shields.io/badge/intel-pentium.svg?logo=intel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows%2098-E34F26?logo=windows95&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows%2095-008484?logo=windows95&logoColor=white" />
   
 - 👨‍💻 **Computer Technician**\
 📆 1997 - 1999\
