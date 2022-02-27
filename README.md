@@ -40,7 +40,7 @@
 </h2>
   
 <p align='center'>
-  🔭 I’m currently working on <a href="https://github.com/iLPdev/prs">Procedurasl Realms Script</a> and <a href="https://github.com/iLPdev/taviMUD">taviMUD</a></p>
+  🔭 I’m currently working on <a href="https://github.com/iLPdev/prs">Procedural Realms Script</a> and <a href="https://github.com/iLPdev/taviMUD">taviMUD</a></p>
 <p align='center'>
 🌱 I’m currently learning:</p>
  <p align='center'>
