@@ -138,7 +138,7 @@
 📍 **Warez 'R' Us BBS** - CA, USA
 
 ## Affiliations
-(CSDb Profile)[https://csdb.dk/scener/?id=6878]
+  <a href="https://csdb.dk/scener/?id=6878">CSDb Profile</a>
   
 - **HBO Original Series** (HOS)
 - **The Eternal Force** (TEF)
