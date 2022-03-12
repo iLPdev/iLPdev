@@ -75,7 +75,7 @@
   
 - 👨‍💻 **Mudlet Package Developer**\
 📆 2020 - present\
-📍 **discMapper** - NV, USA 
+📍 **discMapper** & **Procedural Realms Script** - NV, USA 
 
 <img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
