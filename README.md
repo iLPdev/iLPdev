@@ -137,7 +137,12 @@
 📆 1985 - 1989\
 📍 **Warez 'R' Us BBS** - CA, USA
 
+## Affiliations
 
+- The Eternal Force (TEF)
+- Wierld Hell-Bent Operators (WHO)
+- World Pirate Leaque (WPL)
+  
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
