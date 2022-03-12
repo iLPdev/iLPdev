@@ -177,7 +177,8 @@
 
 | Name                 | Description                                          | Download |
 | -------------------- | ---------------------------------------------------- | -------- |
-| [Disclaim Archive](https://github.com/iLPdev/disclaim) | Humboldt County's Furious Alternative Trio  |  [![disclaim](https://img.shields.io/github/downloads/iLPdev/disclaim/total)](https://github.com/iLPdev/disclaim/releases/tag/studio-mp3-v1.1.0) |
+| [Disclaim Archive](https://github.com/iLPdev/disclaim) | Humboldt County's Furious Alternative Trio  |  [![disclaim](https://img.shields.io/github/downloads/iLPdev/disclaim/total)](https://github.com/iLPdev/disclaim/releases/latest |
+| [PRS](https://github.com/iLPdev/prs) | Procedural Realms Script for Mudlet  |  [![PRS](https://img.shields.io/github/downloads/iLPdev/prs/total)](https://github.com/iLPdev/disclaim/releases/latest |  
 
 <!-- | Content Cell         | Content Cell                                       | link | -->
   
