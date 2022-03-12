@@ -139,9 +139,9 @@
 
 ## Affiliations
 
-- The Eternal Force (TEF)
-- Wierd Hell-Bent Operators (WHO)
-- World Pirate Leaque (WPL)
+- **The Eternal Force** (TEF)
+- **Weird Hell-Bent Operators** (WHO)
+- **World Pirate Leaque** (WPL)
   
 <!--## Skills
 
