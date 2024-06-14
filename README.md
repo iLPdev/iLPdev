@@ -23,11 +23,10 @@
 <h2 align='center'>
 
   💻 My Workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/surface%20pro%208-0078D6?style=for-the-badge&logo=surface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lenovo%20X1%20Carbon-0078D6?style=for-the-badge&logo=lenovo&logoColor=white" />
   
   <p align='center'>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
