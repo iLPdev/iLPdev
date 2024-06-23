@@ -23,8 +23,8 @@
 <h2 align='center'>
 
   💻 My Workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Kubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubuntu-0078D6?style=for-the-badge&logo=kubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Lenovo%20X1%20Carbon-0078D6?style=for-the-badge&logo=lenovo&logoColor=white" />
   
